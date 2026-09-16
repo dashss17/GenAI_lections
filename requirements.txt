@@ -3,3 +3,5 @@ python-decouple
 pypdf
 pytest
 pytest-cov
+ddgs
+coverage
